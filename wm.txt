@@ -1,0 +1,5 @@
+8:13 PM 5/16/2022
+-----------------
+
+- Payout Process: Create ribbon for buttons/actions that import and manage data model
+- LifeDB: schemacrawler, schemaspy, dbdocs, dbdiagram, SQL, CSV, R, PWSH, AWS
